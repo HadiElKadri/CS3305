@@ -1,5 +1,5 @@
 /*
-AUTHOR: HADI EL-KADRI 251015226
+AUTHOR: HADI EL-KADRI
 Date: October 18, 2020
 */
 #include <stdio.h>
