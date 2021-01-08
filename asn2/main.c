@@ -1,4 +1,4 @@
-/* AUTHOR: Hadi El-Kadri 251015226
+/* AUTHOR: Hadi El-Kadri 
 */
 #include <stdio.h>
 #include <stdlib.h>
