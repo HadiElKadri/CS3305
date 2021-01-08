@@ -4,7 +4,7 @@
 #include <sys/wait.h>
 #include <unistd.h>
 #include <errno.h>
-//Author: Hadi El-Kadri 251015226
+//Author: Hadi El-Kadri
 //This program will create 2 child processes from a parent proccess
 //and a child within one of those child processes
 
